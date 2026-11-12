@@ -6,7 +6,7 @@ Each project follows the same workflow: question → data → cleaning → visua
 
 | # | Project | Question | Tools | Status |
 |---|---------|----------|-------|--------|
-| 1 |  |  |  |  |
+| 1 | us_mortality_trends_1999_2017 | How did age-adjusted death rates for influenza/pneumonia and cancer change in the United States from 1999 to 2017, and what factors might explain the difference in their trends? | SQL, Excel, Tableau | In progress 🟠 |
 
 ## Workflow
 
