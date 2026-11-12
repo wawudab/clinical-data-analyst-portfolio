@@ -5,6 +5,7 @@ This project explores U.S. mortality data from the National Center for Health St
 
 ## Folder Structure
 * `sql_queries/` – Contains the SQLite queries used to filter and extract the 1,976 target records from the full dataset.
+* `results/` – Contains the exported CSV output summarising annual total deaths and average age-adjusted mortality rates for Cancer and Influenza/pneumonia (1999–2017).
 
 ## Tools Used
 * **DB Browser for SQLite** (Data querying and filtering)
