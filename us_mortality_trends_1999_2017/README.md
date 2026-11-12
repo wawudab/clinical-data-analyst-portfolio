@@ -10,3 +10,9 @@ This project explores U.S. mortality data from the National Center for Health St
 ## Tools Used
 * **DB Browser for SQLite** (Data querying and filtering)
 * **Microsoft Excel** (Initial data validation and row verification)
+
+## Data Source & Reproducibility
+* **Original Dataset:** [(https://www.kaggle.com/datasets/cdc/nchs-death-rates-and-causes-of-death/data)] via CDC Open Data,
+* **SQLite Table Name:** `nchs_leading_causes_of_death_united_states`
+* **How to Reproduce:** Download the CSV from the CDC link above, import it into SQLite using the exact table name listed, and run the `.sql` script located in `sql_queries/`.
+
