@@ -23,6 +23,10 @@ This project explores U.S. mortality data from the National Center for Health St
 ### Research Question
 How did age-adjusted death rates for influenza/pneumonia and cancer change in the United States from 1999 to 2017, and what factors might explain the difference in their trends?
 
+
+![National Cancer Flu Results](results/national_cancer_flu_pneumonia_trends.png)
+
+
 ### Interactive Visualisation 
 (https://public.tableau.com/views/U_S_Age-AdjustedDeathRatesInfluenzaPneumoniavs_Cancer19992017/U_S_DeathRatesFluPneumoniavs_Cancer19992017?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
